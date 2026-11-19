@@ -1,0 +1,21 @@
+{"event_id":"EV-001","lot_id":"LT-ALFA","recorded_on":"2096-01-02","units":80,"kind":"intake","revision":1}
+{"event_id":"EV-002","lot_id":"LT-ALFA","recorded_on":"2096-04-10","units":20,"kind":"use","revision":1}
+{"event_id":"EV-003","lot_id":"LT-ALFA","recorded_on":"2096-06-20","units":8,"kind":"use","revision":1}
+{"event_id":"EV-003","lot_id":"LT-ALFA","recorded_on":"2096-06-20","units":18,"kind":"use","revision":2}
+{"event_id":"EV-004","lot_id":"LT-BETA","recorded_on":"2096-02-01","units":45,"kind":"intake","revision":1}
+{"event_id":"EV-005","lot_id":"LT-BETA","recorded_on":"2096-05-01","units":10,"kind":"use","revision":1}
+{"event_id":"EV-006","lot_id":"LT-CYGN","recorded_on":"2096-01-05","units":10,"kind":"intake","revision":1}
+{"event_id":"EV-007","lot_id":"LT-DRGN","recorded_on":"2096-01-07","units":100,"kind":"intake","revision":1}
+{"event_id":"EV-008","lot_id":"LT-DRGN","recorded_on":"2096-06-02","units":55,"kind":"use","revision":1}
+{"event_id":"EV-009","lot_id":"LT-ELLA","recorded_on":"2096-03-03","units":20,"kind":"intake","revision":1}
+{"event_id":"EV-010","lot_id":"LT-ELLA","recorded_on":"2096-06-15","units":20,"kind":"use","revision":1}
+{"event_id":"EV-011","lot_id":"LT-FLUX","recorded_on":"2096-01-09","units":50,"kind":"intake","revision":1}
+{"event_id":"EV-012","lot_id":"LT-FLUX","recorded_on":"2096-05-09","units":10,"kind":"use","revision":1}
+{"event_id":"EV-013","lot_id":"LT-FLUX","recorded_on":"2096-06-29","units":8,"kind":"use","revision":1}
+{"event_id":"EV-014","lot_id":"LT-GLOW","recorded_on":"2096-02-11","units":15,"kind":"intake","revision":1}
+{"event_id":"EV-015","lot_id":"LT-GLOW","recorded_on":"2096-06-11","units":5,"kind":"use","revision":1}
+{"event_id":"EV-016","lot_id":"LT-DRGN","recorded_on":"2096-07-01","units":20,"kind":"use","revision":1}
+{"event_id":"EV-017","lot_id":"LT-XXXX","recorded_on":"2096-06-01","units":99,"kind":"intake","revision":1}
+{"event_id":"EV-018","lot_id":"LT-GLOW","recorded_on":"2096-02-30","units":5,"kind":"use","revision":1}
+{"event_id":"EV-019","lot_id":"LT-GLOW","recorded_on":"2096-06-12","units":true,"kind":"use","revision":1}
+not json

@@ -1,0 +1,13 @@
+lot_id|cultivar|bay|minimum_units|state|revision
+LT-ALFA|Aurora Bean|Bay-A|40|active|1
+LT-BETA|Basil Comet|Bay-B|30|active|1
+LT-CYGN|Cinder Pea|Bay-A|25|dormant|1
+LT-DRGN|Dwarf Kale|Bay-C|60|active|1
+LT-ELLA|Ember Lettuce|Bay-B|20|active|1
+LT-FLUX|Flux Radish|Bay-C|35|active|1
+LT-GLOW|Glow Chard|Bay-A|15|active|1
+LT-ALFA|Aurora Bean|Bay-A|50|active|2
+LT-BETA|Basil Comet|Bay-B|030|active|2
+LT-NOVA|Nova Spinach|Bay-D|10|active|0
+LT-ELLA|Ember Lettuce|Bay-B|20|retired|0
+bad-row
